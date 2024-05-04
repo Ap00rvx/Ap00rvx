@@ -4,8 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ap00rvx&theme=discord" alt="Ap00rvx" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter , Node.js **
-- 💬 Ask me about **Flutter, Node.js **
+- 🌱 I’m currently learning **Flutter , Node.js**
+- 💬 Ask me about **Flutter, Node.js**
 - 📫 How to reach me **apurvabraj@gmail.com**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1KEI-N_XfmqRbRKfGOkR0zYyShNNaPaX_/view?usp=sharing**
 - ⚡ Fun fact **Good guys, Come last..**
