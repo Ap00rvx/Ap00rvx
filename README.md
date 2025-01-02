@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Flutter , Node.js**
 - 💬 Ask me about **Flutter, Node.js**
 - 📫 How to reach me **apurvabraj@gmail.com**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1KEI-N_XfmqRbRKfGOkR0zYyShNNaPaX_/view?usp=sharing**
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1jX1_ziQCp8eOKW4J_mapIa89dcAf5vVb/view?usp=drive_link">**Resume**</a> 
 - ⚡ Fun fact **Good guys, Come last..**
 
 <div> <a href="https://www.linkedin.com/in/apurva-b-raj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
